@@ -5,7 +5,7 @@ import java.util.Random;
 import java.util.Scanner;
 import java.util.stream.IntStream;
 
-public class Main {
+public class Pyatnashky {
 
     private static Integer[][] field = new Integer[4][4];
     private static final String fieldTemplate = "   /  X1 | X2 | X3 | X4\nY1 |  %d  |\t%d\t|\t%d\t|  %d   |\n" +
